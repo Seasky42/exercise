@@ -1,0 +1,19 @@
+*{box-sizing: border-box;}
+header {
+    color: navy;
+}
+body {
+    background-color: lightgreen;
+    color: black;
+}
+ul,li{
+    list-style-type: none;
+}
+h1 {
+    color: navy;
+    text-align: center;
+}
+nav img{
+    width: 5%;
+    float: right;
+}
